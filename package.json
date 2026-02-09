@@ -1,0 +1,21 @@
+{
+  "name": "GTA I, JS",
+  "version": "1.0.0",
+  "description": "Um simples jogo estilo GTA I, com câmera vista de cima para baixo, feito com CSS e JavaScript",
+  "private": true,
+  "author": "Thiago Santos",
+  "devDependencies": {
+    "copy-webpack-plugin": "^4.5.1",
+    "css-loader": "^0.28.11",
+    "node-sass": "^4.14.1",
+    "sass-loader": "^6.0.7",
+    "style-loader": "^0.20.3",
+    "webpack": "^4.4.1",
+    "webpack-cli": "^2.0.13",
+    "webpack-dev-server": "^3.11.2"
+  },
+  "scripts": {
+    "build": "npx webpack",
+    "serve": "webpack-dev-server"
+  }
+}

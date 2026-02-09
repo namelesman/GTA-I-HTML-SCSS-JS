@@ -1,1 +1,32 @@
-# GTA-I-HTML-SCSS-JS
+# GTA CSS
+## Uma demonstração técnica de como o CSS 3D funciona
+
+![f1cb0dbb4a14701b661d4e13e35a9c13](https://user-images.githubusercontent.com/1726083/112042026-f6378900-8b3e-11eb-84a4-e4a92f86678e.jpg)
+
+
+Fiz esta demo só para ver o quanto o CSS 3D é poderoso, e acabei me empolgando...
+
+Também fiquei curioso para ver se CSS serve para fazer jogos (alerta de spoiler: não serve muito).
+
+Quis tentar manter o máximo da parte visual no CSS e usar JS só para a lógica do jogo.
+
+## Como começar
+
+Clone o repositório localmente.
+
+O projeto foi feito com Node 10.13. Se você usa NVM, rode `nvm use` antes de instalar.
+
+```shell
+$ npm install
+$ npm run serve
+``` 
+
+Abra o navegador e acesse `http://localhost:8080`
+
+## Como jogar
+
+| Ação              | Teclas                |
+| ----------------- | --------------------- |
+| Acelerar          | Seta para cima        |
+| Frear             | Seta para baixo       |
+| Virar esquerda/direita | Setas esquerda/direita |
