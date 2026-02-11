@@ -1,7 +1,7 @@
 # GTA CSS
 ## Uma demonstração técnica de como o CSS 3D funciona
 
-**🎮 Jogue online:** [https://gta-i-js.netlify.app](https://gta-i-js.netlify.app)
+**🎮 Jogue online:** [https://gta1css3d.netlify.app/](https://gta1css3d.netlify.app/)
 
 ![f1cb0dbb4a14701b661d4e13e35a9c13](https://user-images.githubusercontent.com/1726083/112042026-f6378900-8b3e-11eb-84a4-e4a92f86678e.jpg)
 
