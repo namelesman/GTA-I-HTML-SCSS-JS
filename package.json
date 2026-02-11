@@ -1,5 +1,5 @@
 {
-  "name": "GTA I, JS",
+  "name": "gta-i-js",
   "version": "1.0.0",
   "description": "Um simples jogo estilo GTA I, com câmera vista de cima para baixo, feito com CSS e JavaScript",
   "private": true,
