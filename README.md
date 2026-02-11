@@ -12,19 +12,6 @@ Também fiquei curioso para ver se CSS serve para fazer jogos (alerta de spoiler
 
 Quis tentar manter o máximo da parte visual no CSS e usar JS só para a lógica do jogo.
 
-## Como começar
-
-Clone o repositório localmente.
-
-O projeto foi feito com Node 10.13. Se você usa NVM, rode `nvm use` antes de instalar.
-
-```shell
-$ npm install
-$ npm run serve
-``` 
-
-Abra o navegador e acesse `http://localhost:8080`
-
 ## Como jogar
 
 | Ação              | Teclas                |
